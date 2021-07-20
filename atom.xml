@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>旧梦予星河</title>
+  
+  
+  <link href="https://pickstarw.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://pickstarw.github.io/"/>
+  <updated>2021-07-20T14:15:09.237Z</updated>
+  <id>https://pickstarw.github.io/</id>
+  
+  <author>
+    <name>摘星</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是第一篇博客文章</title>
+    <link href="https://pickstarw.github.io/2021/07/20/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>https://pickstarw.github.io/2021/07/20/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <published>2021-07-20T11:09:13.000Z</published>
+    <updated>2021-07-20T14:15:09.237Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello world<br>如果能看见这篇文章，那我的博客终于搭建成功了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello world&lt;br&gt;如果能看见这篇文章，那我的博客终于搭建成功了。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
